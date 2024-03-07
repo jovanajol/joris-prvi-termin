@@ -1,1 +1,1 @@
-"Neki tekst" grana master
+"Neki tekst" grana master i na novoj grani
